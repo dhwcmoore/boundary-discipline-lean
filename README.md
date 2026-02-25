@@ -1,5 +1,3 @@
----
-
 # Boundary Discipline (Lean)
 
 A Lean 4 + mathlib formalisation of a small kernel for reasoning about regions, partitions, and boundary operators.
@@ -175,5 +173,3 @@ These are not implemented here. The current repository establishes the invariant
 * buildable
 
 The repository is maintained as a minimal formal core.
-
----
