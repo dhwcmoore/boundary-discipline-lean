@@ -1,14 +1,3 @@
-Good. We will make this read like it belongs in a formal methods lab, not a philosophical preface.
-
-The changes below:
-
-* Remove motivational framing.
-* Remove narrative tone.
-* Emphasise structure, invariants, and theorem statements.
-* Include a stronger compositional preservation example.
-
-You can replace your README entirely with the following.
-
 ---
 
 # Boundary Discipline (Lean)
@@ -188,12 +177,3 @@ These are not implemented here. The current repository establishes the invariant
 The repository is maintained as a minimal formal core.
 
 ---
-
-This version signals:
-
-* You understand compositional reasoning.
-* You reason in terms of invariants.
-* You are comfortable proving operator-level properties.
-* You are not over-selling.
-
-If you want, we can now do one more tightening pass that removes even more narrative and pushes it closer to something that could appear in a formal methods research group’s public repository.
